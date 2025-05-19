@@ -48,7 +48,7 @@ Detailed Table View: Sales data by clothing type and category.
 ## Impact
 
 - Empowered stakeholders to make informed decisions, resulting in measurable improvements such as:  
-  - [State impact, e.g., 20% increased efficiency in KPI tracking or improved accuracy in sales reporting.]
+- [State impact, e.g., 20% increased efficiency in KPI tracking or improved accuracy in sales reporting.]
 
 ## How to Use
 
